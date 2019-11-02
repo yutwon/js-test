@@ -23,11 +23,4 @@ function 1.js() {
     }]
     interest_in_coding: false
   }
-  let profile = 1.js();
-  let skills = profile.skills;
-  let list_school = profile.list_school;
-  let {skills} = profile;
-  console.log(JSON.stringify(skills));
-  let list_school = pofile;
-  console.log(JSON.stringify(list_school));
 }
